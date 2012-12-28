@@ -7,6 +7,8 @@ by Shortpach Games.  It is planned for wide-release download in March, 2013.
 This repository is in place for users to submit bug reports for the development
 team to review and address.
 
+### To create a new issue or search through existing issues,, click on the "Issues" button above. ###
+
 ## Submitting Bug Reports ##
 
 Before submitting a bug, please first check that the bug you have encountered
